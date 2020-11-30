@@ -61,11 +61,7 @@ Add this on `ios/Runner/info.plist`:
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
 
 ## Demo           
-![pdf_flutter_demo](image/pdf_flutter_updated .gif)
-
-## Demo           
-![demo](art/pdf_flutter_updated.gif)
-![demo](https://github.com/erluxman/pdf_flutter/blob/master/art/pdf_flutter_updated.gif)
+![pdf_flutter_demo](https://github.com/vaibhavhariaramani/Pdf-viewer-Android-App-using-Flutter/blob/main/image/pdf_flutter_updated%20.gif)
 
 
 # Resources 
