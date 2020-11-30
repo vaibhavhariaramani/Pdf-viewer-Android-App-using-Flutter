@@ -47,7 +47,7 @@ Add this on `ios/Runner/info.plist`:
     Here are the steps to fix:
         1. Add proguard-rules.pro file if its not already there
         
-<img src="image/1.png">
+<img src="image/1..png">
 
         2. Inside of the proguard-rules.pro file put this:
             -keep class com.shockwave.**
@@ -61,7 +61,7 @@ Add this on `ios/Runner/info.plist`:
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
 
 ## Demo           
-![demo](image/pdf_flutter_updated.gif)
+![demo](pdf_flutter_updated .gif)
 
 
 # Resources 
