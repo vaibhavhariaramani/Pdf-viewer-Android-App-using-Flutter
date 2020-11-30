@@ -61,7 +61,7 @@ Add this on `ios/Runner/info.plist`:
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
 
 ## Demo           
-![demo](pdf_flutter_updated .gif)
+![pdf_flutter_demo](image/pdf_flutter_updated .gif)
 
 
 # Resources 
