@@ -63,6 +63,10 @@ Add this on `ios/Runner/info.plist`:
 ## Demo           
 ![pdf_flutter_demo](image/pdf_flutter_updated .gif)
 
+## Demo           
+![demo](art/pdf_flutter_updated.gif)
+![demo](https://github.com/erluxman/pdf_flutter/blob/master/art/pdf_flutter_updated.gif)
+
 
 # Resources 
 
